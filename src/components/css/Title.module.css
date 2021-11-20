@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Geometria-ExtraBold";
+  src: local("Geometria-ExtraBold"),
+    url(./fonts/Geometria-ExtraBold.woff) format("woff");
+}
+
+h1 {
+  font-family: "Geometria-ExtraBold";
+  font-size: 40px;
+  text-align: center;
+  color: #373c5e;
+}

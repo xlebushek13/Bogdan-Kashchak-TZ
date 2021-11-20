@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Geometria";
+  src: local("Geometria"),
+    url(/src/components/css/fonts/Geometria.woff) format("woff");
+}
+body {
+  display: flex;
+  justify-content: center;
+  font-family: "Geometria";
+}
+p {
+  text-align: center;
+}
